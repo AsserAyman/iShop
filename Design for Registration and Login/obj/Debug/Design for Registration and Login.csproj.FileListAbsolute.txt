@@ -1,0 +1,248 @@
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\bin\Debug\Design for Registration and Login.exe.config
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\bin\Debug\Design for Registration and Login.exe
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\bin\Debug\Design for Registration and Login.pdb
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design for Registration and Login.csprojAssemblyReference.cache
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Form1.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Properties.Resources.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Register.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Registration_as_an_admin.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design for Registration and Login.csproj.GenerateResource.cache
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design for Registration and Login.csproj.CoreCompileInputs.cache
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design for Registration and Login.exe
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design for Registration and Login.pdb
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_X.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhones.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_7.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_8.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_Xr.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_WatchesForm2.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_watch_series_4_Nike_.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_Watch_Series_4.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook_Air.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook_Pro.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBooks.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPad_Mini.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPad_Pro.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPads.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\bin\Debug\Design for Registration and Login.exe.config
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\bin\Debug\Design for Registration and Login.exe
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\bin\Debug\Design for Registration and Login.pdb
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.csprojAssemblyReference.cache
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_watch_series_4_Nike_.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_Watch_Series_4.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_WatchesForm2.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Form1.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPad_Mini.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPad_Pro.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPads.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_7.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_8.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_X.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_Xr.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhones.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook_Air.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook_Pro.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBooks.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Properties.Resources.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Register.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Registration_as_an_admin.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.csproj.GenerateResource.cache
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.csproj.CoreCompileInputs.cache
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.exe
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.pdb
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Forgot_Password.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Login.resources
+C:\Users\Asser Ayman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MainPage.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\bin\Debug\Design for Registration and Login.exe.config
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\bin\Debug\Design for Registration and Login.exe
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\bin\Debug\Design for Registration and Login.pdb
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.csprojAssemblyReference.cache
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_watch_series_4_Nike_.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_Watch_Series_4.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_WatchesForm2.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Forgot_Password.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Form1.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPad_Mini.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPad_Pro.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPads.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_7.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_8.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_X.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_Xr.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhones.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Login.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook_Air.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook_Pro.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBooks.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MainPage.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Properties.Resources.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Register.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Registration_as_an_admin.resources
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.csproj.GenerateResource.cache
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.csproj.CoreCompileInputs.cache
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.exe
+C:\Users\Abdelrahman\Desktop\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.pdb
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\bin\Debug\Design for Registration and Login.exe.config
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\bin\Debug\Design for Registration and Login.exe
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\bin\Debug\Design for Registration and Login.pdb
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.csprojAssemblyReference.cache
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp2.addProduct.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.add_apple_watch.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.add_ipad.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp2.add_iphone.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.add_mac.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp2.admin_interface.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_watch_series_4_Nike_.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_Watch_Series_4.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_WatchesForm2.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.edit_apple_watch.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.edit_ipad.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.edit_iphone.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.edit_mac.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.edit_product.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Forgot_Password.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Form1.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPad_Mini.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPad_Pro.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPads.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_7.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_8.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_X.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_Xr.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhones.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Login.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook_Air.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook_Pro.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBooks.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MainPage.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Properties.Resources.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Register.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Registration_as_an_admin.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.remove_apple_watch.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.remove_ipad.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.remove_iphone.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.remove_mac.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.remove_product.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.search_apple_watch.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.search_ipad.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.search_iphone.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.search_mac.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.search_product.resources
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.csproj.GenerateResource.cache
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.csproj.CoreCompileInputs.cache
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.exe
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.pdb
+C:\Users\AMR HANY\Desktop\New folder\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.display.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\bin\Debug\Design for Registration and Login.exe.config
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\bin\Debug\Design for Registration and Login.exe
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\bin\Debug\Design for Registration and Login.pdb
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.csprojAssemblyReference.cache
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp2.addProduct.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.add_apple_watch.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.add_ipad.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp2.add_iphone.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.add_mac.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp2.admin_interface.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_watch_series_4_Nike_.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_Watch_Series_4.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_WatchesForm2.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.display.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.edit_apple_watch.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.edit_ipad.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.edit_iphone.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.edit_mac.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.edit_product.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Forgot_Password.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Form1.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPad_Mini.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPad_Pro.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPads.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_7.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_8.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_X.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_Xr.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhones.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Login.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook_Air.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook_Pro.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBooks.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MainPage.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Properties.Resources.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Register.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Registration_as_an_admin.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.remove_apple_watch.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.remove_ipad.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.remove_iphone.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.remove_mac.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.remove_product.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.search_apple_watch.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.search_ipad.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.search_iphone.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.search_mac.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.search_product.resources
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.csproj.GenerateResource.cache
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.csproj.CoreCompileInputs.cache
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.exe
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.pdb
+C:\Users\AMR HANY\Desktop\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.cart.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\bin\Debug\Design for Registration and Login.exe.config
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\bin\Debug\Design for Registration and Login.exe
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\bin\Debug\Design for Registration and Login.pdb
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.csprojAssemblyReference.cache
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp2.addProduct.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.add_apple_watch.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.add_ipad.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp2.add_iphone.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.add_mac.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp2.admin_interface.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_watch_series_4_Nike_.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_Watch_Series_4.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Apple_WatchesForm2.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.cart.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.ConfirmOrder.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.display.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.edit_apple_watch.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.edit_ipad.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.edit_iphone.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.edit_mac.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.edit_product.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Forgot_Password.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Form1.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPad_Mini.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPad_Pro.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPads.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_7.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_8.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_X.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhone_Xr.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.iPhones.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Login.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook_Air.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook_Pro.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBook.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MacBooks.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.MainPage.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Pay.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Properties.Resources.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Register.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.remove_apple_watch.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.remove_ipad.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.remove_iphone.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.remove_mac.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.remove_product.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.search_apple_watch.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.search_ipad.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.search_iphone.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.search_mac.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\WindowsFormsApp1.search_product.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.csproj.GenerateResource.cache
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.csproj.CoreCompileInputs.cache
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.exe
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design for Registration and Login.pdb
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.LastForm.resources
+C:\Users\Asser Ayman\Desktop\P\Updated\Design for Registration and Login - Copy (2)\Design for Registration and Login\obj\Debug\Design_for_Registration_and_Login.Rate.resources

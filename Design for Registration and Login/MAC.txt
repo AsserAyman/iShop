@@ -1,0 +1,48 @@
+MacBook
+Silver
+512
+2000
+MacBook
+Space Grey
+512
+2000
+MacBook
+Space Grey
+256
+1500
+MacBook
+Silver
+256
+1500
+MacBook Pro
+Silver
+512
+2500
+MacBook Pro
+Space Grey
+512
+2500
+MacBook Pro
+Space Grey
+256
+2000
+MacBook Pro
+Silver
+512
+2000
+MacBook Air
+Silver
+512
+1500
+MacBook Air
+Space Grey
+512
+1500
+MacBook Air
+Space Grey
+256
+1000
+MacBook Air
+Silver
+256
+1000

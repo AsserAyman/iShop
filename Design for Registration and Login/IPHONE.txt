@@ -1,0 +1,52 @@
+iPhone X
+Silver
+64
+1000
+iPhone X
+Silver
+128
+1200
+iPhone X
+Silver
+256
+1400
+iPhone X
+Space Grey
+64
+1000
+iPhone X
+Space Grey
+128
+1200
+iPhone X
+Space Grey
+256
+1400
+iPhone X
+Space Grey
+256
+1000
+iPhone 8
+Space Grey
+128
+800
+iPhone 8
+Silver
+128
+800
+iPhone 7
+Silver
+128
+600
+iPhone 7
+Space Grey
+128
+600
+iPhone 7
+Space Grey
+64
+400
+iPhone 7
+Silver
+64
+400
